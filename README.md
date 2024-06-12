@@ -1,0 +1,2 @@
+# Maskcoin
+Coin
